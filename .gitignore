@@ -36,6 +36,7 @@ pip-delete-this-directory.txt
 *.swp
 *.swo
 *~
+*.code-workspace
 
 # データフォルダ（個人解析データ）
 datas/**/*
@@ -45,7 +46,7 @@ datas/**/*
 # !datas/example/**
 
 # Personal documents
-dogs/
+docs/
 
 # 一時ファイル
 temp/
